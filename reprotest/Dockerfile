@@ -6,7 +6,7 @@
 # SPDX-License-Identifier: MIT-0
 
 # Start off of a long-term maintained base distribution
-FROM ubuntu:22.04
+FROM ubuntu:20.04
 
 MAINTAINER Stefan Klessinger <stefan.klessinger@uni-passau.de>
 
